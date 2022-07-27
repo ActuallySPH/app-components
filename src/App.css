@@ -10,7 +10,6 @@
   color: white;
 }
 
-
 button {
   background-color: transparent;
   border: none;
@@ -18,11 +17,11 @@ button {
   cursor: pointer;
 }
 .on {
-  color: rgb(255, 205, 60);
+  color: rgb(18, 155, 91);
 }
 .off {
   color: #ccc;
 }
-.star-rating span{
+.star-rating span {
   font-size: 2rem;
 }
